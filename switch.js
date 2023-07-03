@@ -15,6 +15,8 @@ function solution(article) {
       return "En mi celular puedo aprender usando la app de Platzi";
     case "cable":
       return "¡Hay un cable en mi bota!";
+      case "bote":
+      return "¡Hay un bote en mi casa!";
     default:
       "articulo no encontrado";
   }
