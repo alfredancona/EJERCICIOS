@@ -18,7 +18,7 @@ function solution(article) {
       case "bote":
       return "¡Hay un bote en mi casa!";
     default:
-      "articulo no encontrado";
+      "articulo no encontrado!!!!!!!!!!";
   }
 }
 
