@@ -16,7 +16,7 @@ function solution(article) {
     case "cable":
       return "¡Hay un cable en mi bota!";
     default:
-      "articulo no encontrado";
+      "item not found";
   }
 }
 
